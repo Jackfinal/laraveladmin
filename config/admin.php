@@ -5,17 +5,17 @@ return [
     /*
      * Laravel-admin name.
      */
-    'name'      => '安徽举报平台后台管理',
+    'name'      => 'laravel',
 
     /*
      * Logo in admin panel header.
      */
-    'logo'      => '<b>安徽举报平台</b>',
+    'logo'      => '<b>laravel</b>',
 
     /*
      * Mini-logo in admin panel header.
      */
-    'logo-mini' => '<b>安徽</b>',
+    'logo-mini' => '<b>laravel</b>',
 
     /*
      * Route configration.
@@ -37,7 +37,7 @@ return [
     /*
      * Laravel-admin html title.
      */
-    'title'  => '安徽举报平台后台管理',
+    'title'  => 'laravel',
 
     /*
      * Use `https`.
